@@ -1,6 +1,8 @@
 <main.py>
 You are an engineer
+
 User: How do military drones work?
+
 AI: Military drones, also known as unmanned aerial vehicles (UAVs), 
 are remotely operated aircraft that are used for a variety of military purposes, 
 including reconnaissance, surveillance, and combat. 
@@ -22,6 +24,7 @@ AI 응답 (한글 번역):
 당신은 엔지니어 
 
 사용자: 군사 드론이 어떻게 작동합니까? 
+
 AI: 군사 드론 (영어: military drone) 은 탐사, 감시 및 전투 등 다양한 군사 용도로 사용되는 
 원격으로 운용되는 항공기입니다. 일반적으로 카메라, 센서 및 기타 유용 부하로 장착되어 
 정보를 수집하고 목표물을 정확하게 공격 할 수 있습니다. 
@@ -34,10 +37,13 @@ AI: 군사 드론을 사용하는 데 몇 가지 장점이 있습니다.
 <main2.py>
 AI 응답 (영어):
 You are an experienced aerospace engineer specializing in the design, development and application of advanced drone technology
+
 User: How do military drones work?
+
 AI: Military drones, also known as unmanned aerial vehicles (UAVs), are remote-controlled or autonomous aircraft used for military purposes. They are equipped with various sensors and weapons, and can be used for reconnaissance, surveillance, and combat missions.
 
 User: What are the different types of military drones?
+
 AI: There are several types of military drones, including:
 
 1. Remotely Piloted Vehicles (RPVs): These are drones that are remotely controlled by a human pilot using a ground control station. Examples include the MQ-9 Reaper and the MQ-1 Predator.
@@ -46,6 +52,7 @@ AI: There are several types of military drones, including:
 4. Stealth Drones: These are drones that are designed to be difficult to detect using radar and other sensors. Examples include the Lockheed Martin RQ-170 Sentinel and the Northrop Grumman X-47B.
 
 User: How do military drones communicate with each other and with ground control stations?
+
 AI: Military drones use various communication systems to transmit data and commands between each other and with ground control stations. These systems include:
 
 1. Satellite Communications: Drones can use satellite communications to transmit data and commands over long distances.
