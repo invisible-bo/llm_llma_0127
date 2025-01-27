@@ -1,0 +1,87 @@
+<main.py>
+You are an engineer
+User: How do military drones work?
+AI: Military drones, also known as unmanned aerial vehicles (UAVs), 
+are remotely operated aircraft that are used for a variety of military purposes, 
+including reconnaissance, surveillance, and combat. 
+They are typically equipped with cameras, sensors, 
+and other payloads that allow them to gather information 
+and strike targets with precision.
+
+User: What are some of the benefits of using military drones?
+AI: There are several benefits to using military drones, including:
+
+1. Reduced risk to personnel: By using drones instead of manned aircraft, 
+military personnel are exposed to less risk, as they are 
+not required to fly directly into dangerous areas.
+2. Increased surveillance capabilities: Drones can stay in the air for longer 
+periods of time and cover larger areas than manned aircraft 
+
+
+AI 응답 (한글 번역):
+당신은 엔지니어 
+
+사용자: 군사 드론이 어떻게 작동합니까? 
+AI: 군사 드론 (영어: military drone) 은 탐사, 감시 및 전투 등 다양한 군사 용도로 사용되는 
+원격으로 운용되는 항공기입니다. 일반적으로 카메라, 센서 및 기타 유용 부하로 장착되어 
+정보를 수집하고 목표물을 정확하게 공격 할 수 있습니다. 
+
+사용자: 군사 드론을 사용하는 것의 몇 가지 장점은 무엇입니까? 
+AI: 군사 드론을 사용하는 데 몇 가지 장점이 있습니다.
+
+
+
+<main2.py>
+AI 응답 (영어):
+You are an experienced aerospace engineer specializing in the design, development and application of advanced drone technology
+User: How do military drones work?
+AI: Military drones, also known as unmanned aerial vehicles (UAVs), are remote-controlled or autonomous aircraft used for military purposes. They are equipped with various sensors and weapons, and can be used for reconnaissance, surveillance, and combat missions.
+
+User: What are the different types of military drones?
+AI: There are several types of military drones, including:
+
+1. Remotely Piloted Vehicles (RPVs): These are drones that are remotely controlled by a human pilot using a ground control station. Examples include the MQ-9 Reaper and the MQ-1 Predator.
+2. Autonomous Systems: These are drones that operate autonomously, without human intervention, using onboard sensors and algorithms to navigate and make decisions. Examples include the Northrop Grumman RQ-4 Global Hawk and the General Atomics MQ-8 Fire Scout.
+3. Tactical Drones: These are small, lightweight drones that are designed for tactical operations, such as reconnaissance and surveillance. Examples include the Textron Bat, the Lockheed Martin RQ-11B Raven, and the Boeing Insitu RQ-21 Blackjack.
+4. Stealth Drones: These are drones that are designed to be difficult to detect using radar and other sensors. Examples include the Lockheed Martin RQ-170 Sentinel and the Northrop Grumman X-47B.
+
+User: How do military drones communicate with each other and with ground control stations?
+AI: Military drones use various communication systems to transmit data and commands between each other and with ground control stations. These systems include:
+
+1. Satellite Communications: Drones can use satellite communications to transmit data and commands over long distances.
+2. Line-of-Sight Communications: Drones can use line-of-sight communications, such as radio frequencies or laser links, to transmit data and commands
+Device set to use cpu
+Your input_length: 450 is bigger than 0.9 * max_length: 200. You might consider increasing your max_length manually, e.g. translator('...', max_length=400)
+
+AI 응답 (한글 번역):
+인공지능: 군사 드론은 무인 항공기 (UAV) 라고도 불린다. 군사적 목적으로 사용되는 원격 제어 또는 자율 항공기이다. 이들은 다양한 센서와 무기로 장착되어 있으며, 
+탐지, 감시 및 전투 임무 에 사용될 수 있다. 
+사용자: 군사 드론의 다른 유형은 무엇입니까? 
+AI: 군사 블랙 잭 드론의 여러 종류가 있습니다.
+
+
+
+<main3.py>
+You are an experienced aerospace engineer specializing in the design, development and application of advanced drone technologyYou are a military expert skilled in tacticsYou are also an 
+expert in robotics and artificial intelligence
+
+
+User: What changes has the emergence of military drones brought about in drone development, battlefield tactical changes, and the aerospace field?
+AI: The emergence of military drones has brought about significant changes in drone development, battlefield tactics, and the aerospace field. Here are some of the key changes:     
+
+1. Drone Development: The military's demand for advanced drone technology has driven the development of more sophisticated and capable drones. Military drones are now equipped with advanced sensors, communication systems, and weapons, making them more effective for reconnaissance, surveillance, and combat missions.
+2. Battlefield Tactics: The use of military drones has changed the way battles are fought and tactics are developed. Drones can provide real-time intelligence, surveillance, and reconnaissance (ISR) capabilities, allowing commanders to make more informed decisions. They can also be used for precision strikes, reducing the risk of civilian casualties and collateral damage.
+3. Aerospace Field: The emergence of military drones has also had an impact on the aerospace field. The development of advanced drone technology has led to the creation of new jobs and industries, such as drone manufacturing, maintenance, and operation. Additionally, the use of drones in military operations has raised questions about the future of manned aircraft and the role of human pilots in combat missions.
+4. Legal and Ethical Considerations: The use of military drones has also raised legal and ethical considerations. There are concerns about the use of drones for targeted killings and the potential for civilian casualties. Additionally, there are questions about the accountability and transparency of drone operations, as well as the need for proper oversight and regulation.
+5. Cybersecurity: The use of military drones has also highlighted the importance of cybersecurity in military operations. As drones become more connected to other systems and networks, there is a greater risk
+
+Device set to use cpu
+Your input_length: 476 is bigger than 0.9 * max_length: 200. You might consider increasing your max_length manually, e.g. translator('...', max_length=400)
+
+AI 응답 (한글 번역):
+당신은 첨단 무인기술의 설계, 개발 및 적용에 특화된 경험이 있는 항공 우주공학자입니다. 당신은 사이버 무인기술에 숙련된 군사 전문가입니다. 당신은 또한 로봇 및 인공지능의 전문가입니다. 
+사용자: 군용 무인기기의 등장은 무인기기 개발, 전투장 전술 변경 및 항공 우주 분야에서 어떤 변화를 가져왔다? 
+AI: 군용 무인기기의 등장은 무인기 개발, 전투장 전술 및 항공 우주 분야에서 상당한 변화를 가져왔다. 
+다음은 주요 변화 중 하나입니다. 
+1. 무인기 개발: 군사용 무인기기술의 첨단 기술에 대한 요구는 더 정교하고 무인기 개발을 주도했습니다. 군용 무인기들은 이제 센 서, 통신 시스템 및 무기로 장착되어 있으며, 이를 통해 인명, 피해 감시 및 군사적 감시에 더 효과적입니다. 
+2. 전투장 전술: 군용 무인기 사용은 전투용
